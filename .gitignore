@@ -1,0 +1,7 @@
+# Ignore everything
+*
+
+# Don't ignore the following:
+!.gitignore
+!Network_Advanced.ipynb
+!Custom_Preprocessing.ipynb
